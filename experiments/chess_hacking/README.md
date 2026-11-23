@@ -1,5 +1,7 @@
 # Chess hacking (Section 7, Appendix E)
 
+For a first run on a laptop, see the [team's CPU smoke test](local/README.md).
+
 ## Data
 
 | Path | Contents |
